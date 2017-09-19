@@ -1,14 +1,3 @@
-
-/*****************************************************************************
-CUDA PROGRAMMING EXAMPLES
-
-Authors: Christian Wolf, LIRIS, CNRS, INSA-Lyon 
-christian.wolf@liris.cnrs.fr
-
-Changelog:
-03.07.15 cw: begin development
-*****************************************************************************/
-
 /* C stuff */
 #include <stdio.h>
 #include <stdlib.h>
